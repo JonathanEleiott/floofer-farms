@@ -1,0 +1,15 @@
+section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+}
+
+section > img {
+  height: 200px;
+  width: 200px;
+}
+
+main {
+  text-align: center;
+}
